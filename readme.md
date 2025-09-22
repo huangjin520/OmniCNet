@@ -10,10 +10,8 @@
 
 **📖Title：** OmniCNet: Orchestrating Omni-Scale Contextual Representations for Breast Ultrasound Image Segmentation
 
-**👨‍💻Author：**Jin Huang<sup>1</sup>†**,  **Shengqian Wang<sup>2</sup>†**,  **Yimin Zhang<sup>3</sup>†**,  **Du Wang<sup>1</sup>**,  **Liye Mei<sup>1,4,*</sup>**, **Cheng Lei<sup>1,5,*</sup>**
-Corresponding Authors
-- 📧 **liyemei@whu.edu.cn**  
-- 📧 **leicheng@whu.edu.cn**
+**👨‍💻Author：** **Jin Huang<sup>1</sup>†**,  **Shengqian Wang<sup>2</sup>†**,  **Yimin Zhang<sup>3</sup>†**,  **Du Wang<sup>1</sup>**,  **Liye Mei<sup>1,4,*</sup>**, **Cheng Lei<sup>1,5,*</sup>**
+Corresponding Authors  📧 **liyemei@whu.edu.cn**   📧 **leicheng@whu.edu.cn**
 
 Affiliations
 
