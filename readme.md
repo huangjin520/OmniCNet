@@ -44,7 +44,11 @@ python -m pip install -r requirements.txt --user -q
 
 All experiments use the PyTorch 1.8 framework in a Python 3.10 environment. Other versions of pytorch and Python are not fully tested.
 ### 📂 Data preparation
-We have evaluated segmentation performance on two public datasets [BUSI](https://www.sciencedirect.com/science/article/pii/S2352340919312181), [BUSI-WHU](https://data.mendeley.com/datasets/k6cpmwybk3/3). Please prepare the data as following:
+We have evaluated segmentation performance on three public datasets:
+ [Dataset B](https://ieeexplore.ieee.org/abstract/document/8003418)
+ [BUSI](https://www.sciencedirect.com/science/article/pii/S2352340919312181), 
+ [BUSI-WHU](https://data.mendeley.com/datasets/k6cpmwybk3/3). 
+ Please prepare the data as following:
 
 📂 DATASET  
 └── 📂 BUSI-WHU  
